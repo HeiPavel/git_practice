@@ -1,2 +1,2 @@
 Beta text
-Second line of beta text
+Second line of beta text. Hello world!
