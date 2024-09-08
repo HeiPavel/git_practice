@@ -1,0 +1,3 @@
+First line of the task text
+Second line of the task text
+Third line of the task text
